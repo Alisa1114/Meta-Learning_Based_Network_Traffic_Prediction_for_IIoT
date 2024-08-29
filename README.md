@@ -40,9 +40,7 @@ or you want to compare the MAML model to baseline model each epoch:
     python test_and_plot.py
 
 
-# Citation
 
-If you find this project useful, please consider citing:
-```
+# References
 
-```
+This repo uses [NetworkTrafficPrediction](https://github.com/mliwang/NetworkTrafficPrediction.git). Thanks for their great work!
