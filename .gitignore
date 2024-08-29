@@ -1,0 +1,16 @@
+ablation_study/
+exp/
+exp_plot/
+FedCSIS/*
+!FedCSIS/readme.md
+FedCSIS_plot
+Guangzhou/*
+!Guangzhou/readme.md
+history_data/
+history_data2/
+model_size/
+record
+Seattle/*
+!Seattle/readme.md
+weights/*
+__pycache__/

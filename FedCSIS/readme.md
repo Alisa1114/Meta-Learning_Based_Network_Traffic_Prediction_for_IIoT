@@ -1,0 +1,1 @@
+Download training_series_long.csv from [https://knowledgepit.ai/fedcsis20-challenge/](https://knowledgepit.ai/fedcsis20-challenge/)
